@@ -1,0 +1,32 @@
+9 9
+O O S O X O O O O
+O X O X O X O X S 
+H(N) O O O O X S O O 
+O X X X O X O X O 
+X O O O S O O O X 
+O X O X O X X X O 
+H(K) O O X O O O O O
+O X O X O X O X O
+O O O O X H(U) O O O
+ACROSS
+1. step
+1. foot movement
+3. end
+7. below
+7. lower in spatial position than
+8. mother
+9. far
+13. cube
+14. bad
+16. today
+17. but, on the contrary; without
+DOWN
+1. true, factual; real
+2. fire
+4. to exit; to leave, not take away
+5. dry
+6. to enter
+10. to work
+11. cry, shout or scream
+12. again, another time
+15. song
